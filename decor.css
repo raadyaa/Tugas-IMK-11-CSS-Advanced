@@ -33,7 +33,7 @@ body#primary{
   
   .fotoku {
     position: absolute;
-    border-color: #363636;
+    border-color: whitesmoke;
     border-style: solid;
     border-width: 2px;
     border-radius: 50%;
@@ -50,6 +50,7 @@ body#primary{
     right: 50px;
     font-size: 20;
     font-family: 'Bebas Neue';
+    font:whitesmoke
     text-decoration: none;
   }
   
@@ -125,7 +126,7 @@ body#primary{
   }
   .fotoJenjang {
     position: relative;
-    border-color: #1f4068;
+    border-color: #02c39a;
     border-style: solid;
     border-width: 4px;
     border-radius: 100%;
@@ -159,7 +160,7 @@ body#primary{
   .fotoJenjang1 {
     position: relative;
     margin-left: 250px;
-    border-color: #1f4068;
+    border-color: #02c39a;
     border-style: solid;
     border-width: 4px;
     border-radius: 100%;
@@ -172,7 +173,7 @@ body#primary{
   .fotoJenjang2 {
     position: relative;
     margin-right: 250px;
-    border-color: #1f4068;
+    border-color: #02c39a;
     border-style: solid;
     border-width: 4px;
     border-radius: 100%;
